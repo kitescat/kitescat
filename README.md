@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently an inforSec master student，Member of MountSec.
+- 🔭 I’m currently an inforSec master student in @GDUT，also a Member of MountSec.
 - 🤔 Research interests: Blockchain & Applied Cryptography & Web Security & APP privacy detection.
 - 💬 Blog: [kitescat's Blog](https://kitescat.github.io/)
 - 🌱 公众号：打代码的猫
